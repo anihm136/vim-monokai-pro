@@ -1,5 +1,5 @@
 " Vim color file
-" Author: Viet Phan
+" Author: Anirudh H M
 " Colorscheme Name: monokai pro
 " Inspired by https://www.monokai.pro/
 
